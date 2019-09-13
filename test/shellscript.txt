@@ -1,0 +1,1 @@
+python c:/Users/ege.okumus/Desktop/test/Qa	Test.py 2 2>&1 >testlog.txt

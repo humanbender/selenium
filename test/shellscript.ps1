@@ -1,0 +1,1 @@
+& c:/Users/ege.okumus/Desktop/test/test.py 2 2>&1 >c:/Users/ege.okumus/Desktop/test/testlog.txt
